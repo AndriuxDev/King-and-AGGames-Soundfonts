@@ -1,0 +1,516 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : AGGames SF2
+// Author    : 
+// Copyright : 
+// Date      : 2022/08/30
+// Comment   : 
+
+<group>
+lokey=C1 hikey=G9
+loop_mode=no_loop
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\AGgamesChromatic - L.wav
+lokey=C1 hikey=C4
+pitch_keycenter=C4
+pan=0
+offset=0
+end=131346
+loop_start=8535
+loop_end=131338
+
+<region>
+sample=samples\AGgamesChromatic -1L.wav
+lokey=C?4 hikey=C?4
+pitch_keycenter=C?4
+pan=0
+offset=0
+end=114381
+loop_start=34127
+loop_end=114373
+
+<region>
+sample=samples\AGgamesChromatic -2L.wav
+lokey=D4 hikey=D4
+pitch_keycenter=D4
+pan=0
+offset=0
+end=137317
+loop_start=67586
+loop_end=137309
+
+<region>
+sample=samples\AGgamesChromatic -3L.wav
+lokey=D?4 hikey=D?4
+pitch_keycenter=D?4
+pan=0
+offset=0
+end=118139
+loop_start=13762
+loop_end=118131
+
+<region>
+sample=samples\AGgamesChromatic -4L.wav
+lokey=E4 hikey=E4
+pitch_keycenter=E4
+pan=0
+offset=0
+end=134192
+loop_start=34561
+loop_end=134184
+
+<region>
+sample=samples\AGgamesChromatic -5L.wav
+lokey=F4 hikey=F4
+pitch_keycenter=F4
+pan=0
+offset=0
+end=137467
+loop_start=67714
+loop_end=137459
+
+<region>
+sample=samples\AGgamesChromatic -6L.wav
+lokey=F?4 hikey=F?4
+pitch_keycenter=F?4
+pan=0
+offset=0
+end=127321
+loop_start=40560
+loop_end=127313
+
+<region>
+sample=samples\AGgamesChromatic -7L.wav
+lokey=G4 hikey=G4
+pitch_keycenter=G4
+pan=0
+offset=0
+end=140488
+loop_start=66459
+loop_end=140480
+
+<region>
+sample=samples\AGgamesChromatic -8L.wav
+lokey=G?4 hikey=G?4
+pitch_keycenter=G?4
+pan=0
+offset=0
+end=131884
+loop_start=61797
+loop_end=131876
+
+<region>
+sample=samples\AGgamesChromatic -9L.wav
+lokey=A4 hikey=A4
+pitch_keycenter=A4
+pan=0
+offset=0
+end=143102
+loop_start=6325
+loop_end=143094
+
+<region>
+sample=samples\AGgamesChromatic-10L.wav
+lokey=A?4 hikey=A?4
+pitch_keycenter=A?4
+pan=0
+offset=0
+end=126762
+loop_start=5295
+loop_end=126754
+
+<region>
+sample=samples\AGgamesChromatic-11L.wav
+lokey=B4 hikey=B4
+pitch_keycenter=B4
+pan=0
+offset=0
+end=115312
+loop_start=13797
+loop_end=115304
+
+<region>
+sample=samples\AGgamesChromatic-12L.wav
+lokey=C5 hikey=C5
+pitch_keycenter=C5
+pan=0
+offset=0
+end=153801
+loop_start=59372
+loop_end=153793
+
+<region>
+sample=samples\AGgamesChromatic-13L.wav
+lokey=C?5 hikey=C?5
+pitch_keycenter=C?5
+pan=0
+offset=0
+end=114052
+loop_start=13399
+loop_end=114044
+
+<region>
+sample=samples\AGgamesChromatic-14L.wav
+lokey=D5 hikey=D5
+pitch_keycenter=D5
+pan=0
+offset=0
+end=149272
+loop_start=22164
+loop_end=149264
+
+<region>
+sample=samples\AGgamesChromatic-15L.wav
+lokey=D?5 hikey=D?5
+pitch_keycenter=D?5
+pan=0
+offset=0
+end=155650
+loop_start=71084
+loop_end=155642
+
+<region>
+sample=samples\AGgamesChromatic-16L.wav
+lokey=E5 hikey=E5
+pitch_keycenter=E5
+pan=0
+offset=0
+end=126460
+loop_start=6132
+loop_end=126452
+
+<region>
+sample=samples\AGgamesChromatic-17L.wav
+lokey=F5 hikey=F5
+pitch_keycenter=F5
+pan=0
+offset=0
+end=156077
+loop_start=71666
+loop_end=156069
+
+<region>
+sample=samples\AGgamesChromatic-18L.wav
+lokey=F?5 hikey=F?5
+pitch_keycenter=F?5
+pan=0
+offset=0
+end=115043
+loop_start=9422
+loop_end=115035
+
+<region>
+sample=samples\AGgamesChromatic-19L.wav
+lokey=G5 hikey=G5
+pitch_keycenter=G5
+pan=0
+offset=0
+end=143344
+loop_start=6737
+loop_end=143336
+
+<region>
+sample=samples\AGgamesChromatic-20L.wav
+lokey=G?5 hikey=G?5
+pitch_keycenter=G?5
+pan=0
+offset=0
+end=127825
+loop_start=7636
+loop_end=127817
+
+<region>
+sample=samples\AGgamesChromatic-21L.wav
+lokey=A5 hikey=A5
+pitch_keycenter=A5
+pan=0
+offset=0
+end=114300
+loop_start=13522
+loop_end=114292
+
+<region>
+sample=samples\AGgamesChromatic-22L.wav
+lokey=A?5 hikey=A?5
+pitch_keycenter=A?5
+pan=0
+offset=0
+end=153095
+loop_start=71768
+loop_end=153087
+
+<region>
+sample=samples\AGgamesChromatic-23L.wav
+lokey=B5 hikey=B5
+pitch_keycenter=B5
+pan=0
+offset=0
+end=114956
+loop_start=13752
+loop_end=114948
+
+<region>
+sample=samples\AGgamesChromatic-24L.wav
+lokey=C6 hikey=C6
+pitch_keycenter=C6
+pan=0
+offset=0
+end=142074
+loop_start=6704
+loop_end=142066
+
+<region>
+sample=samples\AGgamesChromatic-25L.wav
+lokey=C?6 hikey=C?6
+pitch_keycenter=C?6
+pan=0
+offset=0
+end=153059
+loop_start=71809
+loop_end=153051
+
+<region>
+sample=samples\AGgamesChromatic-26L.wav
+lokey=D6 hikey=D6
+pitch_keycenter=D6
+pan=0
+offset=0
+end=128238
+loop_start=7744
+loop_end=128230
+
+<region>
+sample=samples\AGgamesChromatic-27L.wav
+lokey=D?6 hikey=D?6
+pitch_keycenter=D?6
+pan=0
+offset=0
+end=136666
+loop_start=0
+loop_end=136658
+
+<region>
+sample=samples\AGgamesChromatic-28L.wav
+lokey=E6 hikey=E6
+pitch_keycenter=E6
+pan=0
+offset=0
+end=143121
+loop_start=6631
+loop_end=143113
+
+<region>
+sample=samples\AGgamesChromatic-29L.wav
+lokey=F6 hikey=F6
+pitch_keycenter=F6
+pan=0
+offset=0
+end=125714
+loop_start=5042
+loop_end=125706
+
+<region>
+sample=samples\AGgamesChromatic-30L.wav
+lokey=F?6 hikey=F?6
+pitch_keycenter=F?6
+pan=0
+offset=0
+end=114567
+loop_start=13246
+loop_end=114559
+
+<region>
+sample=samples\AGgamesChromatic-31L.wav
+lokey=G6 hikey=G6
+pitch_keycenter=G6
+pan=0
+offset=0
+end=153110
+loop_start=71944
+loop_end=153102
+
+<region>
+sample=samples\AGgamesChromatic-32L.wav
+lokey=G?6 hikey=G?6
+pitch_keycenter=G?6
+pan=0
+offset=0
+end=114177
+loop_start=13682
+loop_end=114169
+
+<region>
+sample=samples\AGgamesChromatic-33L.wav
+lokey=A6 hikey=A6
+pitch_keycenter=A6
+pan=0
+offset=0
+end=142331
+loop_start=6596
+loop_end=142323
+
+<region>
+sample=samples\AGgamesChromatic-34L.wav
+lokey=A?6 hikey=A?6
+pitch_keycenter=A?6
+pan=0
+offset=0
+end=136155
+loop_start=6829
+loop_end=136147
+
+<region>
+sample=samples\AGgamesChromatic-35L.wav
+lokey=B6 hikey=B6
+pitch_keycenter=B6
+pan=0
+offset=0
+end=125945
+loop_start=5049
+loop_end=125937
+
+<region>
+sample=samples\AGgamesChromatic-36L.wav
+lokey=C7 hikey=C7
+pitch_keycenter=C7
+pan=0
+offset=0
+end=136522
+loop_start=6021
+loop_end=136514
+
+<region>
+sample=samples\AGgamesChromatic-37L.wav
+lokey=C?7 hikey=C?7
+pitch_keycenter=C?7
+pan=0
+offset=0
+end=113943
+loop_start=9445
+loop_end=113935
+
+<region>
+sample=samples\AGgamesChromatic-38L.wav
+lokey=D7 hikey=D7
+pitch_keycenter=D7
+pan=0
+offset=0
+end=142658
+loop_start=6716
+loop_end=142650
+
+<region>
+sample=samples\AGgamesChromatic-39L.wav
+lokey=D?7 hikey=D?7
+pitch_keycenter=D?7
+pan=0
+offset=0
+end=142573
+loop_start=6626
+loop_end=142565
+
+<region>
+sample=samples\AGgamesChromatic-40L.wav
+lokey=E7 hikey=E7
+pitch_keycenter=E7
+pan=0
+offset=0
+end=125303
+loop_start=4946
+loop_end=125295
+
+<region>
+sample=samples\AGgamesChromatic-41L.wav
+lokey=F7 hikey=F7
+pitch_keycenter=F7
+pan=0
+offset=0
+end=114421
+loop_start=9519
+loop_end=114413
+
+<region>
+sample=samples\AGgamesChromatic-42L.wav
+lokey=F?7 hikey=F?7
+pitch_keycenter=F?7
+pan=0
+offset=0
+end=153304
+loop_start=71760
+loop_end=153296
+
+<region>
+sample=samples\AGgamesChromatic-43L.wav
+lokey=G7 hikey=G7
+pitch_keycenter=G7
+pan=0
+offset=0
+end=131895
+loop_start=61475
+loop_end=131887
+
+<region>
+sample=samples\AGgamesChromatic-44L.wav
+lokey=G?7 hikey=G?7
+pitch_keycenter=G?7
+pan=0
+offset=0
+end=142583
+loop_start=22075
+loop_end=142575
+
+<region>
+sample=samples\AGgamesChromatic-45L.wav
+lokey=A7 hikey=A7
+pitch_keycenter=A7
+pan=0
+offset=0
+end=136021
+loop_start=6885
+loop_end=136013
+
+<region>
+sample=samples\AGgamesChromatic-46L.wav
+lokey=A?7 hikey=A?7
+pitch_keycenter=A?7
+pan=0
+offset=0
+end=125644
+loop_start=5485
+loop_end=125636
+
+<region>
+sample=samples\AGgamesChromatic-47L.wav
+lokey=B7 hikey=B7
+pitch_keycenter=B7
+pan=0
+offset=0
+end=136101
+loop_start=6616
+loop_end=136093
+
+<region>
+sample=samples\AGgamesChromatic-48L.wav
+lokey=C8 hikey=C8
+pitch_keycenter=C8
+pan=0
+offset=0
+end=113396
+loop_start=13672
+loop_end=113388
+
+<region>
+sample=samples\AGgamesChromatic-49L.wav
+lokey=C?8 hikey=G9
+pitch_keycenter=C?8
+pan=0
+offset=0
+end=142450
+loop_start=0
+loop_end=142442
