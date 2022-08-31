@@ -1,0 +1,516 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : King SF2
+// Author    : 
+// Copyright : 
+// Date      : 2022/08/30
+// Comment   : 
+
+<group>
+lokey=C1 hikey=G9
+loop_mode=no_loop
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\King_Chromatic - - L.wav
+lokey=C1 hikey=C4
+pitch_keycenter=C4
+pan=0
+offset=0
+end=265244
+loop_start=45286
+loop_end=265236
+
+<region>
+sample=samples\King_Chromatic - -1L.wav
+lokey=C?4 hikey=C?4
+pitch_keycenter=C?4
+pan=0
+offset=0
+end=265236
+loop_start=90740
+loop_end=265228
+
+<region>
+sample=samples\King_Chromatic - -2L.wav
+lokey=D4 hikey=D4
+pitch_keycenter=D4
+pan=0
+offset=0
+end=265797
+loop_start=97523
+loop_end=265789
+
+<region>
+sample=samples\King_Chromatic - -3L.wav
+lokey=D?4 hikey=D?4
+pitch_keycenter=D?4
+pan=0
+offset=0
+end=264975
+loop_start=76714
+loop_end=264967
+
+<region>
+sample=samples\King_Chromatic - -4L.wav
+lokey=E4 hikey=E4
+pitch_keycenter=E4
+pan=0
+offset=0
+end=265147
+loop_start=92726
+loop_end=265139
+
+<region>
+sample=samples\King_Chromatic - -5L.wav
+lokey=F4 hikey=F4
+pitch_keycenter=F4
+pan=0
+offset=0
+end=265410
+loop_start=82467
+loop_end=265402
+
+<region>
+sample=samples\King_Chromatic - -6L.wav
+lokey=F?4 hikey=F?4
+pitch_keycenter=F?4
+pan=0
+offset=0
+end=265535
+loop_start=75663
+loop_end=265527
+
+<region>
+sample=samples\King_Chromatic - -7L.wav
+lokey=G4 hikey=G4
+pitch_keycenter=G4
+pan=0
+offset=0
+end=265036
+loop_start=109214
+loop_end=265028
+
+<region>
+sample=samples\King_Chromatic - -8L.wav
+lokey=G?4 hikey=G?4
+pitch_keycenter=G?4
+pan=0
+offset=0
+end=265294
+loop_start=97804
+loop_end=265286
+
+<region>
+sample=samples\King_Chromatic - -9L.wav
+lokey=A4 hikey=A4
+pitch_keycenter=A4
+pan=0
+offset=0
+end=265497
+loop_start=108179
+loop_end=265489
+
+<region>
+sample=samples\King_Chromatic --10L.wav
+lokey=A?4 hikey=A?4
+pitch_keycenter=A?4
+pan=0
+offset=0
+end=265181
+loop_start=78791
+loop_end=265173
+
+<region>
+sample=samples\King_Chromatic --11L.wav
+lokey=B4 hikey=B4
+pitch_keycenter=B4
+pan=0
+offset=0
+end=265342
+loop_start=56107
+loop_end=265334
+
+<region>
+sample=samples\King_Chromatic --12L.wav
+lokey=C5 hikey=C5
+pitch_keycenter=C5
+pan=0
+offset=0
+end=265354
+loop_start=54235
+loop_end=265346
+
+<region>
+sample=samples\King_Chromatic --13L.wav
+lokey=C?5 hikey=C?5
+pitch_keycenter=C?5
+pan=0
+offset=0
+end=265453
+loop_start=127305
+loop_end=265445
+
+<region>
+sample=samples\King_Chromatic --14L.wav
+lokey=D5 hikey=D5
+pitch_keycenter=D5
+pan=0
+offset=0
+end=265134
+loop_start=83504
+loop_end=265126
+
+<region>
+sample=samples\King_Chromatic --15L.wav
+lokey=D?5 hikey=D?5
+pitch_keycenter=D?5
+pan=0
+offset=0
+end=265235
+loop_start=83683
+loop_end=265227
+
+<region>
+sample=samples\King_Chromatic --16L.wav
+lokey=E5 hikey=E5
+pitch_keycenter=E5
+pan=0
+offset=0
+end=265553
+loop_start=70056
+loop_end=265545
+
+<region>
+sample=samples\King_Chromatic --17L.wav
+lokey=F5 hikey=F5
+pitch_keycenter=F5
+pan=0
+offset=0
+end=265501
+loop_start=111447
+loop_end=265493
+
+<region>
+sample=samples\King_Chromatic --18L.wav
+lokey=F?5 hikey=F?5
+pitch_keycenter=F?5
+pan=0
+offset=0
+end=265276
+loop_start=62390
+loop_end=265268
+
+<region>
+sample=samples\King_Chromatic --19L.wav
+lokey=G5 hikey=G5
+pitch_keycenter=G5
+pan=0
+offset=0
+end=265217
+loop_start=38692
+loop_end=265209
+
+<region>
+sample=samples\King_Chromatic --20L.wav
+lokey=G?5 hikey=G?5
+pitch_keycenter=G?5
+pan=0
+offset=0
+end=265518
+loop_start=121824
+loop_end=265510
+
+<region>
+sample=samples\King_Chromatic --21L.wav
+lokey=A5 hikey=A5
+pitch_keycenter=A5
+pan=0
+offset=0
+end=265099
+loop_start=64168
+loop_end=265091
+
+<region>
+sample=samples\King_Chromatic --22L.wav
+lokey=A?5 hikey=A?5
+pitch_keycenter=A?5
+pan=0
+offset=0
+end=265376
+loop_start=45507
+loop_end=265368
+
+<region>
+sample=samples\King_Chromatic --23L.wav
+lokey=B5 hikey=B5
+pitch_keycenter=B5
+pan=0
+offset=0
+end=265237
+loop_start=11938
+loop_end=265229
+
+<region>
+sample=samples\King_Chromatic --24L.wav
+lokey=C6 hikey=C6
+pitch_keycenter=C6
+pan=0
+offset=0
+end=265227
+loop_start=111755
+loop_end=265219
+
+<region>
+sample=samples\King_Chromatic --25L.wav
+lokey=C?6 hikey=C?6
+pitch_keycenter=C?6
+pan=0
+offset=0
+end=265354
+loop_start=14542
+loop_end=265346
+
+<region>
+sample=samples\King_Chromatic --26L.wav
+lokey=D6 hikey=D6
+pitch_keycenter=D6
+pan=0
+offset=0
+end=265491
+loop_start=128592
+loop_end=265483
+
+<region>
+sample=samples\King_Chromatic --27L.wav
+lokey=D?6 hikey=D?6
+pitch_keycenter=D?6
+pan=0
+offset=0
+end=265205
+loop_start=126582
+loop_end=265197
+
+<region>
+sample=samples\King_Chromatic --28L.wav
+lokey=E6 hikey=E6
+pitch_keycenter=E6
+pan=0
+offset=0
+end=265292
+loop_start=43095
+loop_end=265284
+
+<region>
+sample=samples\King_Chromatic --29L.wav
+lokey=F6 hikey=F6
+pitch_keycenter=F6
+pan=0
+offset=0
+end=286819
+loop_start=4456
+loop_end=286811
+
+<region>
+sample=samples\King_Chromatic --30L.wav
+lokey=F?6 hikey=F?6
+pitch_keycenter=F?6
+pan=0
+offset=0
+end=265381
+loop_start=127396
+loop_end=265373
+
+<region>
+sample=samples\King_Chromatic --31L.wav
+lokey=G6 hikey=G6
+pitch_keycenter=G6
+pan=0
+offset=0
+end=265113
+loop_start=102810
+loop_end=265105
+
+<region>
+sample=samples\King_Chromatic --32L.wav
+lokey=G?6 hikey=G?6
+pitch_keycenter=G?6
+pan=0
+offset=0
+end=265465
+loop_start=51399
+loop_end=265457
+
+<region>
+sample=samples\King_Chromatic --33L.wav
+lokey=A6 hikey=A6
+pitch_keycenter=A6
+pan=0
+offset=0
+end=265025
+loop_start=59511
+loop_end=265017
+
+<region>
+sample=samples\King_Chromatic --34L.wav
+lokey=A?6 hikey=A?6
+pitch_keycenter=A?6
+pan=0
+offset=0
+end=265407
+loop_start=43704
+loop_end=265399
+
+<region>
+sample=samples\King_Chromatic --35L.wav
+lokey=B6 hikey=B6
+pitch_keycenter=B6
+pan=0
+offset=0
+end=265373
+loop_start=90404
+loop_end=265365
+
+<region>
+sample=samples\King_Chromatic --36L.wav
+lokey=C7 hikey=C7
+pitch_keycenter=C7
+pan=0
+offset=0
+end=265663
+loop_start=93210
+loop_end=265655
+
+<region>
+sample=samples\King_Chromatic --37L.wav
+lokey=C?7 hikey=C?7
+pitch_keycenter=C?7
+pan=0
+offset=0
+end=265133
+loop_start=52129
+loop_end=265125
+
+<region>
+sample=samples\King_Chromatic --38L.wav
+lokey=D7 hikey=D7
+pitch_keycenter=D7
+pan=0
+offset=0
+end=265323
+loop_start=131050
+loop_end=265315
+
+<region>
+sample=samples\King_Chromatic --39L.wav
+lokey=D?7 hikey=D?7
+pitch_keycenter=D?7
+pan=0
+offset=0
+end=265323
+loop_start=127985
+loop_end=265315
+
+<region>
+sample=samples\King_Chromatic --40L.wav
+lokey=E7 hikey=E7
+pitch_keycenter=E7
+pan=0
+offset=0
+end=265391
+loop_start=34102
+loop_end=265383
+
+<region>
+sample=samples\King_Chromatic --41L.wav
+lokey=F7 hikey=F7
+pitch_keycenter=F7
+pan=0
+offset=0
+end=265218
+loop_start=91068
+loop_end=265210
+
+<region>
+sample=samples\King_Chromatic --42L.wav
+lokey=F?7 hikey=F?7
+pitch_keycenter=F?7
+pan=0
+offset=0
+end=265300
+loop_start=113445
+loop_end=265292
+
+<region>
+sample=samples\King_Chromatic --43L.wav
+lokey=G7 hikey=G7
+pitch_keycenter=G7
+pan=0
+offset=0
+end=265294
+loop_start=93395
+loop_end=265286
+
+<region>
+sample=samples\King_Chromatic --44L.wav
+lokey=G?7 hikey=G?7
+pitch_keycenter=G?7
+pan=0
+offset=0
+end=265433
+loop_start=56896
+loop_end=265425
+
+<region>
+sample=samples\King_Chromatic --45L.wav
+lokey=A7 hikey=A7
+pitch_keycenter=A7
+pan=0
+offset=0
+end=265251
+loop_start=57927
+loop_end=265243
+
+<region>
+sample=samples\King_Chromatic --46L.wav
+lokey=A?7 hikey=A?7
+pitch_keycenter=A?7
+pan=0
+offset=0
+end=265320
+loop_start=90098
+loop_end=265312
+
+<region>
+sample=samples\King_Chromatic --47L.wav
+lokey=B7 hikey=B7
+pitch_keycenter=B7
+pan=0
+offset=0
+end=265619
+loop_start=130677
+loop_end=265611
+
+<region>
+sample=samples\King_Chromatic --48L.wav
+lokey=C8 hikey=C8
+pitch_keycenter=C8
+pan=0
+offset=0
+end=265013
+loop_start=114137
+loop_end=265005
+
+<region>
+sample=samples\King_Chromatic --49L.wav
+lokey=C?8 hikey=G9
+pitch_keycenter=C?8
+pan=0
+offset=0
+end=265376
+loop_start=26342
+loop_end=265368
